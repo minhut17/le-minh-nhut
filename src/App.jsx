@@ -3,9 +3,9 @@
 // import viteLogo from '/vite.svg'
 
 import './App.css'
-import Computer from './component/computer';
+// import Computer from './component/Computer';
 import Profie from './component/Profile';
-import Header from './component/header';
+import Header from './component/Header';
 import Instroductions from './component/Instroduction';
 import Experience from './component/Experiancene';
 import Skills from './component/Skill';

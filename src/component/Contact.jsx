@@ -3,7 +3,7 @@ import * as images from "../assets";
 
 const Contact = () => {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-center min-h-screen bg-[url('../assets/bg1.jpg')]. text-white p-8">
+    <div className="flex flex-col md:flex-row items-center justify-center min-h-screen  text-white p-8">
       {/* Cột trái - Ảnh */}
       <div className="w-full md:w-1/2 flex justify-center">
         <img
